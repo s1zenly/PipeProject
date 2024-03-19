@@ -5,7 +5,7 @@
 
 
 **Компилировать g++ name.c -o name.out**                
-**Запускать ./name.out <N> <input_file> <output_file>**
+**Запускать ./name.out   <N> <input_file> <output_file>**
 
 
 Только на 8 и 9 запускать с параметрами data, а без параметров handler
